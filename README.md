@@ -1,1 +1,1 @@
-just Checking
+Simple ROR App
